@@ -8,9 +8,6 @@ public class Lab080_If {
             System.out.println("You are allowed to vote!");
         }
 
-
-
-
     }
 }
 
