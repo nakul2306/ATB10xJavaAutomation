@@ -29,8 +29,6 @@ public class Lab138_InterviewQ2 {
         System.out.println(s3.equalsIgnoreCase(s5));
 
 
-
     }
-
 
 }
