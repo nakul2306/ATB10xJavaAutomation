@@ -17,7 +17,5 @@ public class Lab158_2d_Right_Triangles {
             System.out.println(" ");
         }
 
-
-
     }
 }
