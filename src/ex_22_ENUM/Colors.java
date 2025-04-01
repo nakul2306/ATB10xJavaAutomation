@@ -1,17 +1,17 @@
 package ex_22_ENUM;
 
 enum Colors {
-    RED( "#FF0000"),
+    RED("#FF0000"),
 
     GREEN("#61FF33");
 
-    private String hexCode;
+    private final String hexCode;
 
     Colors(String hexCode) {
         this.hexCode = hexCode;
     }
 
-   public  String getHexCode() {
+    public String getHexCode() {
         return hexCode;
     }
 }
